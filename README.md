@@ -2,5 +2,5 @@
 <h3 align="center">Mobile Developer</h3>
 
 <p align="center">
-  <a href="https://oussamaberhili.netlify.app/" target="_blank">🌐 visit my website</a>
+  <a href="oussama-berhili.com" target="_blank">🌐 visit my website</a>
 </p>
